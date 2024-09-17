@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KayBoss23536
-- 👀 I’m interested in ethical Hacking 
+- 👀 I’m interested in databases 
 - 🌱 I’m currently learning as a beginner 
 - 💞️ I’m looking to collaborate with people already in the field 
 - 📫 How to reach me: swill6115@gmail.com 
