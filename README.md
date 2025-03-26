@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KayBoss23536
+- 👋 Hi, I’m @KayBoss23
 - 👀 I’m interested in databases 
 - 🌱 I’m currently learning as a beginner 
 - 💞️ I’m looking to collaborate with people already in the field 
